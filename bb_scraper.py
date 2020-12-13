@@ -2,10 +2,9 @@
 """
 Created on Sun Dec  6 22:53:51 2020
 
-@author: Joseph Allen
+@author: Oscar Sanchez
 
-Description: This is a web scraper that scrapes player statistical data
-             from Basketball-Reference.com
+URL: https://towardsdatascience.com/web-scraping-nba-stats-4b4f8c525994
 """
 
 from urllib.request import urlopen

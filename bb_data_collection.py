@@ -13,6 +13,6 @@ import pandas as pd
 
 bb_df = bb_stat_scraper()
 
-
+bb_df.to_csv('nba_stats.csv', index = False)
 
 
